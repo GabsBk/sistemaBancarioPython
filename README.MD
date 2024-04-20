@@ -18,7 +18,7 @@ O seguinte projeto foi realizado durante o Bootcamp Python AI Backend Developer,
 
 O objetivo é criar uma sistema bancário em Python, seguindo os seguintes critérios:
 
-O banco deve possir 3 operações essenciais:
+O banco deve possuir 3 operações essenciais:
 
 - **Operação de depósito**: Deve ser possível depositar valores positivos para a conta bancária. A v1 do projeto trabalha apenas com 1 usuário, sem se preocupar com o número da agencia e conta. Todos os  depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
 
