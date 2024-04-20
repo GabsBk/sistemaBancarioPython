@@ -1,7 +1,7 @@
 
 # Criando um sistema bancário com Python
 
-O seguinte foi realizado durante o Bootcamp Python AI Backend Developer, da DIO. 
+O seguinte projeto foi realizado durante o Bootcamp Python AI Backend Developer, da DIO. 
 
 
 ## Autores
